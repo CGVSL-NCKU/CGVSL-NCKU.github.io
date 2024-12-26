@@ -21,7 +21,7 @@ repository               : "cgvsl-ncku.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tony.jpeg"
+  avatar           : "tony.jpg"
   name             : "李同益"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,17 +72,34 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  MajorPapers:
+    title: 'Major Journal Papers (ACM/IEEE Transactions/Journals)/SIGGRAPH/SIGGRAPH Asia/CVPR (2024/10/07)'    
+  OtherPapers:
+    title: 'Other Journal and arxiv Papers (2024/09/10)'
+  RecentPapers:
+    title: 'Recent International Conference Papers (2005~present)'
 
+research_summary_category:
+  Multimedia_Retargeting:
+    title: 'Multimedia Retargeting'
+  Surface_Modeling:
+    title: 'Surface Modeling/Texture Mapping/Geometrric Steganography/AGIM'
+  Non_photo_realistic:
+    title: 'Non-photo-realistic rendering (NPR) & Illusion'
+  Motion_Overview:
+    title: 'Motion Overview + Animation Generation + Music'
+  Focus_Context:
+    title: 'Focus + Context/Word and Image/Shape Cloud/Map Art/ Visualization'
+  Morphing:
+    title: 'Morphing, Shape Interpolation and its Medical Applications'
+
+  
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -169,10 +187,12 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
+  - local
   - log
   - node_modules
   - package.json*
@@ -221,6 +241,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research_summary:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -257,7 +280,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: single-publications
       author_profile: true
       share: true
       comments: true
@@ -290,22 +313,23 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
