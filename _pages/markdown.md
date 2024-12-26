@@ -8,14 +8,14 @@ redirect_from:
   - /markdown.html
 ---
 
-[2024 CG](http://localhost:4000/courses/2024CG)  
-[2023 CG](http://graphics.csie.ncku.edu.tw/)  
-[2022 CG](http://graphics.csie.ncku.edu.tw/)  
-[2021 CG](http://graphics.csie.ncku.edu.tw/)  
-[2020 CG](http://graphics.csie.ncku.edu.tw/)  
-[2019 CG](http://graphics.csie.ncku.edu.tw/)  
-[2018 CG](http://graphics.csie.ncku.edu.tw/)  
-[2016 CG](http://graphics.csie.ncku.edu.tw/)  
+[2024 CG](/cources/2024CG)  
+[2023 CG](/cources/2023CG)  
+[2022 CG](/cources/2022CG)  
+[2021 CG](/cources/2021CG)  
+[2020 CG](/cources/2020CG)  
+[2019 CG](/cources/2019CG)  
+[2018 CG](/cources/2018CG)  
+[2016 CG](/cources/2016CG)  
 
 <!-- # Locations of key files/directories
 
