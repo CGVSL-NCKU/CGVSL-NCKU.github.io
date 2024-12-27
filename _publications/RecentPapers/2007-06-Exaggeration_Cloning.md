@@ -17,7 +17,3 @@ venue: 'June 11-13' # 如果 date 確定，就補上日期
 ---
 
 <strong><u>Tong-Yee Lee</u></strong>, Ping-Hsien Lin, Shao-Wei Yen, Zhi-Yuan Yao, Jin-Lung Lin. "Exaggeration Cloning." International Conference on Computer Animation and Social Agents (CASA 2007), June 11th-13th, 2007, Belgium
-
-
-<!-- Note:
-There isn't a link for "Exaggeration Cloning" video and website. -->

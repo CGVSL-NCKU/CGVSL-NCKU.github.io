@@ -19,5 +19,3 @@ paperurl: '/poster/hair_2.5D_sig_asia_2018.pdf'
 ---
 
 Charles C. Morace, Feng-Wei Wu, Chih-Kuo Yeh, Chia-Hsiang Chen, Shih-Syun Lin, <strong><u>Tong-Yee Lee*</u></strong> "Hair Modeling from a Single Anime-Style Image" Poster, <strong><i><span style="color:red">SIGGRAPH Asia 2018</span></i></strong>8 Poster, Tokyo, Dec., 2018.
-
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008 -->

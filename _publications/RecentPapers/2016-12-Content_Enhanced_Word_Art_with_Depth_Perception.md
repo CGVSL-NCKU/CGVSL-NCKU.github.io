@@ -19,5 +19,3 @@ paperurl: '/Tony/papers/siggraph_poster_0063.pdf'
 ---
 	
 Shao-Wei Yen, Chih-Kuo Yeh, Charles C. Morace, Sheng-Yuan Chen, Shih-Syun Lin, Chia-Hsiang Chen, <strong><u>Tong-Yee Lee*</u></strong> "Content Enhanced Word Art with Depth Perception" Poster, <strong><i><span style="color:red">SIGGRAPH Asia 2016</span></i></strong>, Macao, China, Dec.,2016.  
-
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008 -->

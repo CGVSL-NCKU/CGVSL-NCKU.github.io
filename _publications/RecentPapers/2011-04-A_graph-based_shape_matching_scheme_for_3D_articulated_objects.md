@@ -19,4 +19,3 @@ paperurl: '/Tony/papers/10.1002_cav.396.pdf'
 ---
 	
 Min-Wen Chao, Chao-Hung Lin, Chih-Chieh Chang, <strong><u>Tong-Yee Lee</u></strong> "A Graph-based Shape Matching Scheme for 3D Articulated Objects", <strong><i>Computer Animation And Virtual Worlds (Proceedings of CASA'11)</i></strong> Volume 22, Issue 2-3, April-May 2011.
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008 -->

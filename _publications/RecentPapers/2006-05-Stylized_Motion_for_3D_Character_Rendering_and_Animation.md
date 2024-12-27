@@ -18,7 +18,3 @@ venue: 'May' # 如果 date 確定，就補上日期
 ---
 
 <strong><u>Tong-Yee Lee</u></strong>, Ming-Te Chi, Chung-Ren Yan, Chiung-Fu Chen, Yen-Chi Lin. "Stylized Motion for 3D Character Rendering and Animation" International Conference on Computer Animation and Social Agents (CASA 2006), Geneva, Switzerland 2006
-<!--
-Note:
-There isn't a link for "Stylized Motion for 3D Character Rendering and Animation" video and website.
- -->

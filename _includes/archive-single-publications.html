@@ -13,8 +13,7 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: "list" }}__item publications-table__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
     <div class="archive__item-teaser">
@@ -35,7 +34,7 @@
       {% endif %}
     {% endif %}
     <div class="archive__item-content" style="width: 600px;">
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title publications-title-links" itemprop="headline">
       {% assign current_date = "now" | date: "%s" %}
       {% assign post_date = post.date | date: "%s" %}
       {% assign diff_days = current_date | minus: post_date | divided_by: 86400 %}

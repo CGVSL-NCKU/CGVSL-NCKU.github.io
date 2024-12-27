@@ -19,6 +19,3 @@ paperurl: "/files/publications/papers/Segmenting_a_Deforming_Mesh_into_Near-Rigi
 ---
 
 <strong><u>Tong-Yee Lee</u></strong>, Yu-Shuen Wang , Tai-Guang Chen. "Segmenting a Deforming Mesh into Near-Rigid Components" The 14th Pacific Conference on Computer Graphics and Applications, (Pacific Graphics 2006) (<span style="color:red">also selected in a special issue of Visual Computer Journal Vol. 22, No. 9-11, Sept. 2006, pp. 729-739</span>)
-
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008
- -->

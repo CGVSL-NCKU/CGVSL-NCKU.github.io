@@ -20,5 +20,3 @@ projecturl: 'https://cgvsl-ncku.github.io/FlowVis/' ## IE可看
 ---
 	
 Chih-Kuo Yeh, Zhanping Liu and <strong><u>Tong-Yee Lee</u></strong> <strong><u>(<span style="color:red">Best Paper Award!!</span>)</u></strong> "Animating Streamlines with Repeated Asymmetric Patterns for Steady Flow Visualization", <strong><i>Conference on Visualization and Data Analysis</i></strong>, Jan. 2012.
-
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008 -->

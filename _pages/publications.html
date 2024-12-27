@@ -67,6 +67,19 @@ class="link-style" href="/publications#RecentPapers">Recent International Confer
 
 {% include base_path %}
 
+<style>
+    .publications-title-links a:link {
+      color: #0000EE !important; /* 未访问链接的颜色 */
+    }
+    .publications-title-links a:visited {
+      color: #551A8B !important; /* 访问过的链接的颜色 */
+    }
+    .publications-table__item {
+      margin: 0px !important; /* 访问过的链接的颜色 */
+      border: none !important; /* 移除整体的外部边框 */
+      border-radius: 0 !important;
+    }
+</style>
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
 {% for category in site.publication_category %}

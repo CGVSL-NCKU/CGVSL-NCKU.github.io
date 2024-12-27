@@ -19,5 +19,3 @@ paperurl: '/Tony/papers/cav.398.pdf'
 ---
 	
 I-Cheng Yeh, Chao-Hung Lin, Hung-Jen Chien and <strong><u>Tong-Yee Lee</u></strong> "Efficient camera path planning algorithm for human motion overview", <strong><i>Computer Animation And Virtual Worlds (Proceedings of CASA'11)</i></strong> Volume 22, Issue 2-3, April-May 2011.
-
-<!-- <strong><u>Tong-Yee Lee</u></strong>, Shao-Wei Yen, I-Cheng Yeh, "Texture Mapping with Hard Constraints Using Warping Scheme"<strong><u>(<span style="color:red">Cover Image in this issue</span>)</u></strong> <strong><i>IEEE Transactions on Visualization and Computer Graphics (TVCG)</i></strong>, March/April, Vol. 14, No. 2, pp. 382-395,2008 -->

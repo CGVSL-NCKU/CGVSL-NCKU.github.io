@@ -11,7 +11,3 @@ paperurl: '/files/publications/papers/Example-driven_animation_synthesis.pdf'
 ---
 
 <strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin, Hung-Kuo Chu,Yu-Shuen Wang,Shao-Wei Yen, Chang-Rung Tsai, "Mesh Pose-Editing Using Examples". Computer Animation and Virtual Worlds Journal, 2007
-
-
-<!-- Note:
-There isn't a link for "Mesh Pose-Editing Using Examples" video and website. -->

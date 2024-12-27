@@ -17,7 +17,3 @@ venue: 'June 11-13' # 如果 date 確定，就補上日期
 ---
 
 <strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin, Shao-Wei Yen, Hsun-Jen Chen."A Natural Pen-and-paper like Sketching Interface for Modeling and Animation" International Conference on Computer Animation and Social Agents (CASA 2007), June 11th-13th, 2007,Belgium,.
-
-
-<!-- Note:
-There isn't a link for "A Natural Pen-and-paper like Sketching Interface for Modeling and Animation" video and website. -->

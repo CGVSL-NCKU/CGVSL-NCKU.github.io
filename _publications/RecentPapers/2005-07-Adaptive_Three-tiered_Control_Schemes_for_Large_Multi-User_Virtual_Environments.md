@@ -19,6 +19,3 @@ venue: 'October' # 如果 date 確定，就補上日期
 
 Kuo-Yu Lee, Hung-Kuo Chu, <strong><u>Tong-Yee Lee</u></strong>. "Adaptive Three-tiered Control Schemes for Large Multi-User Virtual Environments." International Conference on Computer Animation and Social Agents (CASA 2005) Oct. 2005, Hong-Kong
 
-
-<!-- Note:
-There isn't a link for "Adaptive Three-tiered Control Schemes for Large Multi-User Virtual Environments" paper. -->
