@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+![CG Group Logo](./images/CGL_smallsize.png)
 
 Our group (CGVSL) is an interdisciplinary research laboratory. The group's mission is to advance computer graphics research; its theme is the enhancement of human creativity and innovation through advances in computer graphics. 
 
